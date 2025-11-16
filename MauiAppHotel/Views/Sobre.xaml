@@ -22,7 +22,7 @@
                FontSize="15"
                HorizontalOptions="Center"/>
 
-        <Label Text="Versão: 1.0"
+        <Label Text="Versão: 2.0"
                TextColor="{StaticResource SecondaryDarkText}"
                FontSize="14"
                HorizontalOptions="Center"
