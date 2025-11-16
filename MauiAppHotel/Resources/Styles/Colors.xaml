@@ -16,13 +16,13 @@
     <Color x:Key="TextColor">#212121</Color>
     <Color x:Key="Accent">#4A6572</Color>-->
 
-    <Color x:Key="Primary">#919191</Color>
-    <Color x:Key="PrimaryDark">#04465E</Color>
+    <Color x:Key="Primary">#190649</Color>
+    <Color x:Key="PrimaryDark">#190649</Color>
     <Color x:Key="PrimaryDarkText">#242424</Color>
     <Color x:Key="Secondary">#088CBA</Color>
     <Color x:Key="SecondaryDarkText">#FFFFFF</Color>
-    <Color x:Key="Tertiary">#235A5E</Color>
-    <Color x:Key="Background">#D600AA</Color>
+    <Color x:Key="Tertiary">#190649</Color>
+    <Color x:Key="Background">#6E6E6E</Color>
     <Color x:Key="TextColor">#212121</Color>
     <Color x:Key="Accent">#190649</Color>
 
